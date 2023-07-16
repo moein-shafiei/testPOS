@@ -1,0 +1,7 @@
+
+
+//TODO Separate Customer from Staff at one point -> BuyerRepository?
+
+//TODO connect catalog to external inverntory
+
+//TODO what is TransactionBehavior in ordering.api
