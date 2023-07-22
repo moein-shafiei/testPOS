@@ -5,3 +5,4 @@
 //TODO connect catalog to external inverntory
 
 //TODO what is TransactionBehavior in ordering.api
+//TODO what is DomainEvent in Entity abstract class
